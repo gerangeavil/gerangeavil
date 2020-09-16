@@ -8,10 +8,10 @@
 ## :rocket: Mis Estadísticas:
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=gerangeavil&count_private=true&show_icons=true&theme=vision-friendly-dark">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=gerangeavil&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=gerangeavil&count_private=true&show_icons=true&theme=dark">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=gerangeavil&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=gerangeavil&hide=php&theme=vision-friendly-dark">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=gerangeavil&hide=php&theme=vision-friendly-dark" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=gerangeavil&hide=php&theme=dark">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=gerangeavil&hide=php&theme=dark" />
 </a>
 </div>
